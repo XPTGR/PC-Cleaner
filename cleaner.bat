@@ -18,6 +18,6 @@ del /q /f /s %SYSTEMDRIVE%\*.bak
 del /q /f /s %SYSTEMDRIVE%\*.gid
 echo Cleaned logs
 echo Thanks for using Pc Cleaner:)
-echo discord.gg/qmvWAJ3Nne
+echo discord.gg/H6er6xEcn5
 pause
 cls
