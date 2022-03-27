@@ -1,6 +1,6 @@
 <img src="https://img.shields.io/github/stars/XPTGR/PC-Cleaner?color=007bdb&label=Stars" alt="shield.png"></a>
 
-#### Pc Cleaner was made by [XPTGR](discord.gg/H6er6xEcn5)
+#### Pc Cleaner was made by [XPTGR](https://dsc.gg/xptgr)
 
 ### ❔・About
 **Run as administrator if you want it to clean most of the temp files and such**
